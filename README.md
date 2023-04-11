@@ -1,3 +1,2 @@
 # Movie-Review-Website
-
-I have used TMDB Api with JavaScript to create this website.
+https://hariharapranav.github.io/Movie-Review-Website/
